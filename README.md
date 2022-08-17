@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vermarudransh
-- 👀 I’m interested in ASTRONOMY
-- 🌱 I’m currently learning java          
-- 💞️ I’m looking to collaborate on ...
+- 👀 I love ASTRONOMY
+- 🌱 I’m currently learning java and css          
 - 📫 How to reach me ...
 
 <!---
